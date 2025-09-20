@@ -1,0 +1,21 @@
+Datatypes in python:
+
+1. Integer (int) :
+Whole numbers (positive, negative, or zero).
+example: a = 10
+
+2.Floating Point (float)
+Numbers with decimals.
+example: a = 2.5
+
+3.Complex (complex)
+Numbers with a real and imaginary part.
+example : z = 2 + 3j
+
+4.String
+Sequence of characters (text).
+example: name = "Kalyan"
+
+5.Boolean (bool)
+Represents truth values True or False.
+example: bool = True

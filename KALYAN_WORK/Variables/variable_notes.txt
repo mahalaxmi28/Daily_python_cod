@@ -1,0 +1,20 @@
+Variables: A variable is just a name that stores some value in memory.
+
+
+Example: 
+x = 10      # x is storing an integer
+name = "Kalyan"  # name is storing a string
+pi = 3.14   # pi is storing a float
+
+
+Rules for Variables in Python
+
+
+Rule 1: Names can have letters, numbers, and underscores
+example: my_name, age1, total_price   #these are valid in python
+        1age, my-name, class  #not valid in python
+
+Rule 2: Age = 20
+        age = 30  # Case sensitive (both are different variables)
+
+        
