@@ -19,3 +19,6 @@ if((year % 400 ==0) or (year % 4== 0 and year%100!=0)):
 else:
     print(year," is not a leap year")
 
+
+for i in range(1,6):
+    print(i)
