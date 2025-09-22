@@ -1,0 +1,44 @@
+In built Data Structures in python
+
+1.List
+-> list is ordered and mutable collection.
+->It can hold different datatypes(int,string,float,boolean)
+->Allows duplicate values.
+
+2.Tuple
+->Tuple is ordered and immutable collectiuon.
+->once created value cannot be changed
+
+# empty tuple
+t1 = ()
+
+# tuple of numbers
+t2 = (1, 2, 3, 4)
+
+# tuple of strings
+t3 = ("apple", "banana", "cherry")
+
+# mixed data types
+t4 = (1, "hello", 3.5, True)
+
+# single element tuple (comma is important!)
+t5 = (5,)  
+
+
+Tuple Packing:
+When you assign multiple values to a single variable, Python automatically packs them into a tuple.
+
+Tuple Unpacking:
+Unpacking is the reverse process — you extract the values of a tuple into individual variables.
+
+
+
+3.Dictionary
+A dictionary is an unordered collection of key–value pairs.
+
+Keys must be unique and immutable (strings, numbers, tuples).
+
+Values can be anything: numbers, strings, lists, other dictionaries, etc.
+
+Dictionaries are mutable → you can change, add, or remove items.
+
