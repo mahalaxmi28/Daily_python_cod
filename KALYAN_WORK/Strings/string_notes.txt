@@ -1,0 +1,8 @@
+String : A string is a sequence of characters enclosed in single ' ' or double " " quotes.
+
+ex:
+s1 = "Hello"
+s2 = 'Python'
+
+
+String is immutable,once created we cannot change it.

@@ -42,3 +42,8 @@ Values can be anything: numbers, strings, lists, other dictionaries, etc.
 
 Dictionaries are mutable → you can change, add, or remove items.
 
+
+4.Sets 
+-> set is unordered collection of unique elements
+-> set is mutable but elemnts inside the set are immutable
+
